@@ -1,0 +1,2 @@
+I wanted a simple 20 minute timer for breaks during study which would play my favorite songs in a random selection. Cmdbreak.py works in the command window, guibreak.py runs in a tkinter GUI. Put your wav files in the 'tunes' folder and change the titles in the 'songs' list.
+This was very simple but fun project and will probably evolve into a more precise and adjustable timer eventually.
